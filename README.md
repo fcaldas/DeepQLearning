@@ -11,12 +11,13 @@ The project is divided in the following folders:
 - **tex**: LaTeX files used to generate a report (in portuguese)
 - **videos**: videos of the learning process for the DeepQLearning agent
 
-###Results
+## Results
 
 By applying a Deep learning agent to the control task we obtained encouraging results as we can see in the following chart:
 
 <img src="https://github.com/fcaldas/DeepQLearning/blob/master/tex/img/deepq_performance_200_200.png" width=400>
-###Videos
+
+## Videos
 
 To have an idea of how well the agent could perform in different stages of training you can take a look in the `img` folder:
 
